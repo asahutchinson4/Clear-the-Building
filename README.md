@@ -11,7 +11,7 @@ I started this project for my advanced game development course. Our goal was to 
 You play as Nikolai Egorov (“Nico”), a former Russian spec ops member. He was one of the deadliest and most skilled militants before he decided to come to America for a better life. The Russian government was so impressed with Nico’s talents that they attempted to capture him in order to make clones. This forced Nico into hiding from the Russian government and he decided to move to New York, in search of the American dream but what he found instead was quite the opposite. Nico landed a job as a swat team member in Brooklyn. A few months later a worldwide pandemic was discovered but it was too late. This pandemic infected the whole planet, but its only symptom reveals itself after death. Once you die, you turn into a flesh-eating monster. Zombies have overrun Brooklyn and Nico’s team has been tasked with clearing each building in their assigned perimeter. Play as Nico and clear the building you’ve been tasked with.
 
 # What I Learned
-I mostly learned about UE4, blueprints and the differences between 3D and 2D game development. This was a big change for me and I had a lot of fun. 
+I mostly learned about UE4, blueprints and the differences between 3D and 2D game development. This was a big change for me and I had a lot of fun. My main focus on the project was to build a unique environment for the player. The level was inspired by a 21c in my hometown which is a modern museum hotel with a nice restaurant. So, I learned a lot about how to populate a level and what it all entails.
 
 # Contributors
 None. I used the internet for tutorials and lots of free assets.
